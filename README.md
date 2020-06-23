@@ -1,11 +1,11 @@
 Todolist
 
-Features
-Clock
-Todo list
-Random background img
-Weather information
+Features <Br>
+Clock <br> 
+Todo list <Br>
+Random background img <Br>
+Weather information <br> <br>
 
 
-Future Features
+Future Features <br>
 Daily, Weekly, Monthly Todolist
